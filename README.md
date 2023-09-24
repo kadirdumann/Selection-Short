@@ -22,9 +22,9 @@ Kodluyoruz Eğitimi kapsamında selection short porjesi
   
 * Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 
-   Average case: Aradığımız sayının ortada olması.
-   Worst case: Aradığımız sayının sonda olması.
-   Best case: Aradığımız sayının dizinin en başında olması.
+   i    Average case: Aradığımız sayının ortada olması.
+   ii    Worst case: Aradığımız sayının sonda olması.
+   iii    Best case: Aradığımız sayının dizinin en başında olması.
 
     Cevap : Average case
   
